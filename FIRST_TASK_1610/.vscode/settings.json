@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "lpuart.h": "c",
+        "clock.h": "c",
+        "stdint.h": "c",
+        "register.h": "c",
+        "gpio.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
